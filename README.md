@@ -19,3 +19,14 @@
 1. 각자 4문제를 구글 폼으로 만들어온다.
 2. 당일에 공유하고, 20분간 푼다.
 3. 오답은 따로 오답노트.md를 만들어 작성한다.
+
+
+# 📖구글 폼 문제
+
+### 3장 타입추론 (4월 18일) 
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[문제](https://docs.google.com/forms/d/1g4OuxtjsnM5IoPaXiUEkbSrV6Q0amIt8edDW8xqzUxU/edit)|
+| 주장권 |[문제](https://docs.google.com/forms/d/e/1FAIpQLScA0ZsR370LLSf3EzzefFRiGi7-UN71OFX_tEyNPheweyO0Mw/viewform?usp=pp_url)|
+| 허지호 |벌칙 받음|
+| 현세인 |[문제](https://forms.gle/krrhweuxFMpaJqcQ6)|
