@@ -26,7 +26,7 @@
 ### 3장 타입추론 (4월 18일) 
 | 이름 | 블로그 |
 | --- | --- |
-| 신준혁 |[문제](https://docs.google.com/forms/d/1g4OuxtjsnM5IoPaXiUEkbSrV6Q0amIt8edDW8xqzUxU/edit)|
+| 신준혁 |[문제](https://docs.google.com/forms/d/e/1FAIpQLSchKZiH6oWNb3u7SiKkF0uz7j3QJBLcvXBRpvKFr57G1jfiLw/viewform?usp=sf_link)|
 | 주장권 |[문제](https://docs.google.com/forms/d/e/1FAIpQLScA0ZsR370LLSf3EzzefFRiGi7-UN71OFX_tEyNPheweyO0Mw/viewform?usp=pp_url)|
 | 허지호 |벌칙 받음|
 | 현세인 |[문제](https://forms.gle/krrhweuxFMpaJqcQ6)|
