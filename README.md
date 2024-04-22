@@ -30,3 +30,11 @@
 | 주장권 |[문제](https://docs.google.com/forms/d/e/1FAIpQLScA0ZsR370LLSf3EzzefFRiGi7-UN71OFX_tEyNPheweyO0Mw/viewform?usp=pp_url)|
 | 허지호 |벌칙 받음|
 | 현세인 |[문제](https://forms.gle/krrhweuxFMpaJqcQ6)|
+
+### 4장 타입설계 (4월 22일)
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[문제](https://forms.gle/bSxrdaj5SVg8FUhn7)|
+| 주장권 |[문제](https://forms.gle/mCkuZc7GyBes5dyaA)|
+| 허지호 |[문제](https://forms.gle/9x136NLX6aNcjxQt8)|
+| 현세인 |[문제](https://forms.gle/eDChiuifj84fJMzq9)|
