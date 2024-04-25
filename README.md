@@ -24,7 +24,7 @@
 # 📖구글 폼 문제
 
 ### 3장 타입추론 (4월 18일) 
-| 이름 | 블로그 |
+| 이름 | 문제 |
 | --- | --- |
 | 신준혁 |[문제](https://docs.google.com/forms/d/e/1FAIpQLSchKZiH6oWNb3u7SiKkF0uz7j3QJBLcvXBRpvKFr57G1jfiLw/viewform?usp=sf_link)|
 | 주장권 |[문제](https://docs.google.com/forms/d/e/1FAIpQLScA0ZsR370LLSf3EzzefFRiGi7-UN71OFX_tEyNPheweyO0Mw/viewform?usp=pp_url)|
@@ -32,7 +32,7 @@
 | 현세인 |[문제](https://forms.gle/krrhweuxFMpaJqcQ6)|
 
 ### 4장 타입설계 (4월 22일)
-| 이름 | 블로그 |
+| 이름 | 문제 |
 | --- | --- |
 | 신준혁 |[문제](https://forms.gle/bSxrdaj5SVg8FUhn7)|
 | 주장권 |[문제](https://forms.gle/mCkuZc7GyBes5dyaA)|
@@ -40,7 +40,7 @@
 | 현세인 |[문제](https://forms.gle/eDChiuifj84fJMzq9)|
 
 ### 5장 any 다루기 (4월 25일)
-| 이름 | 블로그 |
+| 이름 | 문제 |
 | --- | --- |
 | 신준혁 |[문제](https://forms.gle/eyUCzQRazUsUCdZZA)|
 | 주장권 |[문제](https://forms.gle/aXK4SkoUTRUeWMkz7)|
