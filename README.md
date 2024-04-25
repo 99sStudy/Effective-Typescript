@@ -38,3 +38,11 @@
 | 주장권 |[문제](https://forms.gle/mCkuZc7GyBes5dyaA)|
 | 허지호 |[문제](https://forms.gle/9x136NLX6aNcjxQt8)|
 | 현세인 |[문제](https://forms.gle/eDChiuifj84fJMzq9)|
+
+### 5장 any 다루기 (4월 25일)
+| 이름 | 블로그 |
+| --- | --- |
+| 신준혁 |[문제](https://forms.gle/eyUCzQRazUsUCdZZA)|
+| 주장권 |[문제](https://forms.gle/aXK4SkoUTRUeWMkz7)|
+| 허지호 |[문제](https://forms.gle/h5UrmcdXHFK7xHVt8)|
+| 현세인 |[문제](https://forms.gle/mf1bLFoe55gDotfy6)|
