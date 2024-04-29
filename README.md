@@ -46,3 +46,13 @@
 | 주장권 |[문제](https://forms.gle/aXK4SkoUTRUeWMkz7)|
 | 허지호 |[문제](https://forms.gle/h5UrmcdXHFK7xHVt8)|
 | 현세인 |[문제](https://forms.gle/mf1bLFoe55gDotfy6)|
+
+
+### 6장 타입선언과 @types 문제 (4월 29일)
+| 이름 | 문제 |
+| --- | --- |
+| 신준혁 |[문제](https://forms.gle/TfgHGabeykvHc7qq7)|
+| 주장권 |[문제](https://forms.gle/sRruFQYmvMPGAGPY8)|
+| 허지호 |[문제](https://forms.gle/iMU9L9SRQtHdU6SK8)|
+| 현세인 |[문제](https://forms.gle/jh9PqK4ESPQYD9C66)|
+
