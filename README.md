@@ -56,3 +56,11 @@
 | 허지호 |[문제](https://forms.gle/iMU9L9SRQtHdU6SK8)|
 | 현세인 |[문제](https://forms.gle/jh9PqK4ESPQYD9C66)|
 
+### 7장 코드를 작성하고 실행하기,8장 타입스크립트로 마이그레이션하기 (5월 2일)
+| 이름 | 문제 |
+| --- | --- |
+| 신준혁 |[문제](https://forms.gle/KigvLjZqMMinHAH58)|
+| 주장권 |[문제](https://forms.gle/fbbHCj4GYxL7rsSm7)|
+| 허지호 |[문제](https://forms.gle/w4fEzHfK9kVbEX1V7)|
+| 현세인 ||
+
